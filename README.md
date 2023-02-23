@@ -7,7 +7,7 @@ This makes it visually appealing and simple.
 
 
 
-##See below given video to get a fine view of our project.
+## See below given video to get a fine view of our project.
 
 
 
